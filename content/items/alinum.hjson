@@ -1,0 +1,14 @@
+color: fc52fc
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+charge: 0
+cost: 4
+research: {
+    parent: "crescerium"
+}
+buildable: true
+hiddenOnPlanets: [
+serpulo
+erekir
+]
