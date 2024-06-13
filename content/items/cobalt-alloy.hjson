@@ -1,0 +1,14 @@
+color: 9ba5bb
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+charge: 0
+cost: 1
+research: {
+    parent: "alinum"
+}
+buildable: true
+hiddenOnPlanets: [
+serpulo
+erekir
+]
