@@ -1,0 +1,2 @@
+# endosodra
+Suffer in laziness.
